@@ -6,7 +6,7 @@ This repository contains the datasets used in the Mathematical Data Science pape
 ---
 /titanic/ → Titanic survival dataset
 /iris/ → Iris flower classification dataset
-
+/tip/ → Used in statistics for data science. Good for regression, classification, grouping, and visualization exercises!
 
 
 
